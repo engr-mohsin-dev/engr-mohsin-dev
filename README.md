@@ -5,7 +5,9 @@
   </a>
 </h1>
 
-<div align="center">
+
+<!-- Skills -->
+<div align="center" style="margin: 5rem 0;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,npm,express,mongodb,mysql,next,figma&theme=light" alt="My Skills" />
   </a>
