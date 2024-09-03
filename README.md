@@ -7,11 +7,13 @@
 
 
 <!-- Skills -->
-<div align="center" style="margin: 5rem 0;">
+<div align="center" style="margin: 10rem 0;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,npm,express,mongodb,mysql,next,figma&theme=light" alt="My Skills" />
-  </a>
+      <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,npm,express,mongodb,mysql,next,figma&theme=light"
+         alt="My Skills" data-dark-theme="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,npm,express,mongodb,mysql,next,figma&theme=dark"/>  </a>
 </div>
+
+
 
 
 <div align="center">
