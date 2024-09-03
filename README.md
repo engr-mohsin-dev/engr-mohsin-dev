@@ -5,7 +5,9 @@
   </a>
 </h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,npm,express,mongodb,sql,next,figma&theme=light)](https://skillicons.dev)
+<p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,nodejs,npm,express,mongodb,mysql,next,figma&theme=light)](https://skillicons.dev)
+</p>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
