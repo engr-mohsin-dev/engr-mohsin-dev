@@ -8,7 +8,8 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=engr-mohsin-dev&theme=default" alt="GitHub Streak" data-light-theme="streak-stats.demolab.com/?user=engr-mohsin-dev&theme=default" data-dark-theme="streak-stats.demolab.com/?user=engr-mohsin-dev&theme=dark"/>
+    
+<img src="https://streak-stats.demolab.com?user=engr-mohsin-dev&theme=dark&border_radius=12&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   </a>
 </div>
 
