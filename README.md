@@ -15,7 +15,6 @@ I'm Mohsin, a Software Engineering student at Abasyn University, Peshawar. I'm p
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=engr-mohsin-dev)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Streak Score -->
 <div align="center" >
