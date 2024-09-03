@@ -9,7 +9,7 @@
 I'm Mohsin, a Software Engineering student at Abasyn University, Peshawar. I'm passionate about Web Development and currently learning HTML, CSS, and JavaScript. I have certifications in Freelancing, Graphic Design, and Programming. My goal is to become a Full Stack Developer, and I'm always eager to explore new technologies and work on exciting projects. Welcome to my GitHub repository, where I share my journey and projects!
 
 <!-- Skills -->
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center;">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,javascript,react,nodejs,npm,express,vite,mongodb,mysql,py,next,git,github,figma,ai,&theme=light" alt="My Skills" />
   </a>
