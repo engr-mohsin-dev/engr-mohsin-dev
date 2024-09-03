@@ -11,7 +11,7 @@ I'm Mohsin, a Software Engineering student at Abasyn University, Peshawar. I'm p
 <!-- Skills -->
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,javascript,react,nodejs,npm,express,vite,mongodb,mysql,py,next,chatgpt,git,github,figma,ai,&theme=light" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,tailwind,javascript,react,nodejs,npm,express,vite,mongodb,mysql,py,next,git,github,figma,ai,&theme=light" alt="My Skills" />
   </a>
 </div>
 
